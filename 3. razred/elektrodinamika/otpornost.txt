@@ -1,0 +1,4 @@
+#formulae
+T=2*pi*sqrt(l_m/g)
+#questions
+{'question':'Koliki je period njihala dugog {l_cm} cm koje se njiše u liftu koji ubrzava prema gore akceleracijom {a} m/s?','unknown':'T', 'constants':['g_z'], 'parameters':{}, 'knowns': {'l_cm': '80,120,1', 'a': '2,8,0'}, 'formulae': ['l_cm=l_m*100', 'g=g_z+a']}

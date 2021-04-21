@@ -1,0 +1,4 @@
+#formulae
+v=f*λ
+#questions
+{'question':'Koliko traje jedan titraj žice gitare duljine {l_cm} cm kad titra u osnovnoj frekvenciji? Brzina vala na žici je {v} m/s?','unknown':'T', 'constants':[], 'parameters':{'v': 425}, 'knowns': {'l_cm': '60,80,0'}, 'formulae': ['λ=l_m/2', 'l_cm=l_m*100', 'f=1/T']}

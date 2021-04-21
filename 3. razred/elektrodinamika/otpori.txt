@@ -1,0 +1,6 @@
+﻿#formulae
+L=10*log(I_1/I_0, 10)
+I_1=P/S_k
+S_k=4*r**2*pi
+#questions
+{'question':'Na kojoj udaljenosti od izvora snage {P} W je glasnoća zvuka {L} dB?','unknown':'r', 'constants':['I_0'], 'parameters':{}, 'knowns': {'P': '5,8,0', 'L': '40,50,0'}, 'formulae': []}

@@ -1,0 +1,4 @@
+﻿#formulae
+v=s/t
+#questions
+{'question': 'Koliko je od škole udaljen Ivan, ako mu prosječnim hodom od {v} treba {t_min} minuta do škole?', 'unknown': 's', 'constants': [], 'parameters': {}, 'formulae': ['t=t_min*60', 'v=s/t_s'], 'knowns': {'v': '20,50,-1', 't_min': '5,8,0'}}

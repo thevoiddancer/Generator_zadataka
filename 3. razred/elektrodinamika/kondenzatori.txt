@@ -1,0 +1,5 @@
+#formulae
+E_1=k*l_m**2/2
+E_1=m_kg*v**2/2
+#questions
+{'question':'Spajanje vagona radi tako da amortizeri uspore vagon koji se približava. Ako znamo da amortizeri na vagonu imaju konstantu elastičnosti od {k} N/m, te da je maksimalno koliko se mogu sabiti {l_cm} cm, a vagon ima mase {m_t} tona, koja je maksimalna brzina kojom se može kretati da se sigurno zaustavi?','unknown':'v', 'constants':[], 'parameters':{}, 'knowns': {'k': '2,10,5', 'l_cm': '10,40,0', 'm_t':'1,5,0'}, 'formulae': ['l_m=l_cm/100', 'm_kg=m_t*1000']}
